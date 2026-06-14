@@ -56,31 +56,32 @@ README.md
 
 ### Login Screen
 
-![Login](InternshipFinder/screenshots/Admin_Dashboard.png)
+![Login](InternshipFinder/screenshots/Login.png)
 
 ### Registration Screen
 
-![Register](screenshots/Register.png)
+![Register](InternshipFinder/screenshots/Register.png)
 
 ### Student Dashboard
 
-![Student Dashboard](screenshots/Student_Dashboard.png)
+![Student Dashboard](InternshipFinder/screenshots/Student_Dashboard.png)
 
 ### Employer Dashboard
 
-![Employer Dashboard](screenshots/Employer_Dashboard.png)
+![Employer Dashboard](InternshipFinder/screenshots/Employer_Dashboard.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/Admin_Dashboard.png)
+![Admin Dashboard](InternshipFinder/screenshots/Admin_Dashboard.png)
 
 ### Internship Listings
 
-![Internship List](screenshots/Internship_List.png)
+![Internship List](InternshipFinder/screenshots/Internship_List.png)
 
-### Internship Approval Module
+### Internship Approval
 
-![Internship Approval](screenshots/Admin_Internship_Approval.png)
+![Internship Approval](InternshipFinder/screenshots/Admin_Internship_Approval.png)
+
 
 ## Learning Outcomes
 
