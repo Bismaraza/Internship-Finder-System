@@ -1,0 +1,3 @@
+package ui.student;
+import javax.swing.*;import java.awt.*;import controller.*;import model.*;import util.*;
+public class StudentNotificationsPanel extends JPanel{ JTextArea area=new JTextArea(); public StudentNotificationsPanel(){ setBackground(UITheme.BG); setLayout(new BorderLayout()); add(UITheme.title("Notifications"),BorderLayout.NORTH); area.setBackground(UITheme.PANEL_2); area.setForeground(UITheme.TEXT); add(new JScrollPane(area),BorderLayout.CENTER); load(); } void load(){ StringBuilder sb=new StringBuilder(); for(Notification n:new NotificationController().list(Session.getUserId())) sb.append(n.getCreatedAt()).append(" - ").append(n.getTitle()).append("\n").append(n.getMessage()).append("\n\n"); area.setText(sb.toString()); } }

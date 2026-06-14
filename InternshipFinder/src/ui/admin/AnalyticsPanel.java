@@ -1,0 +1,3 @@
+package ui.admin;
+import javax.swing.*;import java.awt.*;import dao.*;import util.*;
+public class AnalyticsPanel extends JPanel{ public AnalyticsPanel(){setBackground(UITheme.BG);setLayout(new GridLayout(2,2,12,12));add(new ui.common.DashboardCard("Total Users",String.valueOf(new UserDAO().getAllUsers().size())));add(new ui.common.DashboardCard("Total Internships",String.valueOf(new InternshipDAO().getAll().size())));add(new ui.common.DashboardCard("Applications",String.valueOf(new ApplicationDAO().getAll().size())));add(new ui.common.DashboardCard("Reports",String.valueOf(new ReportDAO().getAll().size())));} }
