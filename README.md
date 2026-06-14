@@ -98,3 +98,43 @@ README.md
 BS Software Engineering Student
 
 GitHub: https://github.com/Bismaraza
+
+## Installation & Usage
+
+### Prerequisites
+
+* Java JDK 8 or above
+* Eclipse IDE (recommended)
+* JDBC Driver
+* SQL Database
+
+### Steps to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Bismaraza/Internship-Finder-System.git
+```
+
+2. Open the project in Eclipse IDE.
+
+3. Configure the database connection in the database configuration file.
+
+4. Import the required database schema.
+
+5. Run the main Java file.
+
+### User Roles
+
+* Student
+* Employer
+* Admin
+
+### Features Available
+
+* User Authentication
+* Internship Management
+* Application Tracking
+* Admin Controls
+* Dashboard Management
+
