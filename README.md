@@ -56,7 +56,7 @@ README.md
 
 ### Login Screen
 
-![Login](screenshots/Login.png)
+![Login]((https://github.com/Bismaraza/Internship-Finder-System/blob/b70d543c140ff3c5d08dd84189fb083af3f5eccd/InternshipFinder/screenshots/Admin_Dashboard.png))
 
 ### Registration Screen
 
