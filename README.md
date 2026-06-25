@@ -28,6 +28,20 @@ Internship Finder System is a Java Swing-based desktop application developed to 
 * Approve Internship Posts
 * Monitor System Activity
 
+## Logins
+Admin:
+admin@internshipfinder.com
+123456
+
+Student:
+student@internshipfinder.com
+123456
+
+Employer:
+employer@internshipfinder.com
+123456
+
+
 ## Technologies Used
 
 * Java
